@@ -1,3 +1,5 @@
+⚠️ Feel free to download source code and change it by your own.
+
 <h2>☑️ What is this app about?</h2>
 <p> Musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this app, I made a colourful XyloPhone app.</p>
 <h2>☑️ What have I learned?</h2>
